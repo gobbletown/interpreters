@@ -1,5 +1,7 @@
 title: emacs calculator
 language: RPN calc
+issues:
+- requires great imagination due to non-localised inference
 draw-mode: refresh
 kickstarter: |+
     -------------- Emacs Calculator Mode -------------- - Emacs Calculator Trail -
