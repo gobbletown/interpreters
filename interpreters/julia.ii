@@ -1,4 +1,4 @@
-language: ammonite
+language: julia
 kickstarter: |+
                    _
        _       _ _(_)_     |  Documentation: https://docs.julialang.org
