@@ -1,3 +1,6 @@
-GNU Smalltalk ready
-
-st>
+language: smalltalk
+kickstarter: |+
+    GNU Smalltalk ready
+    
+    st> 
+user-prompt: "^st> "
