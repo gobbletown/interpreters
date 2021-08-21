@@ -1,5 +1,6 @@
+task: Imagine a <language> interpreter
 language: julia
-kickstarter: |+
+prompt: |+
     $ julia
                    _
        _       _ _(_)_     |  Documentation: https://docs.julialang.org

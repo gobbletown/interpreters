@@ -1,5 +1,6 @@
+task: Imagine a <language> interpreter
 language: emacs lisp
-kickstarter: |+
+prompt: |+
     -UUU:----F1  *scratch*      All L4     (Lisp Interaction ElDoc) ------
     Eval:
 user-prompt: "^Eval: "

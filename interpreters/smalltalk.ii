@@ -1,5 +1,6 @@
+task: Imagine a <language> interpreter
 language: smalltalk
-kickstarter: |+
+prompt: |+
     GNU Smalltalk ready
     
     st> 

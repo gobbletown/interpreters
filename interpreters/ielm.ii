@@ -1,7 +1,8 @@
-title: ielm
+task: Imagine a <language> interpreter
+title: emacs ielm
 language: emacs lisp
 include: emacs lisp
-kickstarter: |+
+prompt: |+
     *** Welcome to IELM ***  Type (describe-mode) for help.
     ELISP> 
 user-prompt: "^ELISP> "

@@ -1,5 +1,6 @@
+task: Imagine a <language> interpreter
 language: perl
-kickstarter: |+
+prompt: |+
     Loading DB routines from perl5db.pl version 1.55
     Editor support available.
 

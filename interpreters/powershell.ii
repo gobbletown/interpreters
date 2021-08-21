@@ -1,5 +1,6 @@
+task: Imagine a <language> interpreter
 language: powershell
-kickstarter: |+
+prompt: |+
     PowerShell 7.1.3
     Copyright (c) Microsoft Corporation.
     

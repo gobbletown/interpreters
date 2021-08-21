@@ -1,5 +1,6 @@
+task: Imagine a <language> interpreter
 language: lua
-kickstarter: |+
+prompt: |+
     Lua 5.3.3  Copyright (C) 1994-2016 Lua.org, PUC-Rio
     > 
 user-prompt: "^> "
