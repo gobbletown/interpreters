@@ -1,6 +1,6 @@
 * Interpreters
 This is a free and open-source (FOSS) curation
-of imaginary interpreters and their manerisms.
+of imaginary interpreters and their mannerisms.
 
 | License | Discord server invite       |
 |---------+-----------------------------|
