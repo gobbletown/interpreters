@@ -1,4 +1,6 @@
 language: emacs lisp
+*** Welcome to IELM ***  Type (describe-mode) for help.
+ELISP> 
 kickstarter: |+
     -UUU:----F1  *scratch*      All L4     (Lisp Interaction ElDoc) ------
     Eval:

@@ -1,0 +1,7 @@
+title: ielm
+language: emacs lisp
+include: emacs lisp
+kickstarter: |+
+    *** Welcome to IELM ***  Type (describe-mode) for help.
+    ELISP> 
+user-prompt: "^ELISP> "
