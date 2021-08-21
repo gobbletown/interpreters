@@ -1,3 +1,4 @@
+include: Generic Interpreter
 task: Imagine a <language> interpreter
 language: perl
 prompt: |+

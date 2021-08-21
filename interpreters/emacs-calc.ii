@@ -1,3 +1,4 @@
+include: Generic Interpreter
 task: Imagine the emacs calculator mode
 title: emacs calculator
 language: RPN calc
