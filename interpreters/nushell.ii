@@ -1,2 +1,5 @@
-Welcome to Nushell 0.28.0 (type 'help' for more info)
-/home/shane/notes(master)>
+language: nushell
+kickstarter: |+
+    Welcome to Nushell 0.28.0 (type 'help' for more info)
+    /home/shane/notes(master)> 
+user-prompt: "^.*(master)> "
