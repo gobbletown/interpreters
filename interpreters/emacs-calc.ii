@@ -1,0 +1,6 @@
+title: emacs calculator
+language: RPN calc
+kickstarter: |+
+    -------------- Emacs Calculator Mode -------------- - Emacs Calculator Trail -
+        . 
+user-prompt: "^ *\\. "
