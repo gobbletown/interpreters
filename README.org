@@ -1,0 +1,12 @@
+* Interpreters
+This is a free and open-source (FOSS) curation
+of imaginary interpreters and their manerisms.
+
+| License | Discord server invite       |
+|---------+-----------------------------|
+| =GPL-3= | https://discord.gg/JwKGbAdNHR |
+
+** Learning material
+- https://semiosis.github.io/posts/imaginary-programming-with-gpt-3/
+- https://mullikine.github.io/posts/prompt-design-with-yasnippet/
+- https://github.com/semiosis/prompts/
